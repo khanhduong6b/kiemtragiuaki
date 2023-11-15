@@ -7,3 +7,11 @@ void nhap(int a[], int n)
 		cin >> a[i];
 	}
 }
+int tong(int a[], int n){
+	int sum=0;
+	for (int i=0;i<n;i++)
+	{
+		sum+=a[i];
+	}
+	return sum;
+}
