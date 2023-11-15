@@ -15,3 +15,6 @@ int tong(int a[], int n){
 	}
 	return sum;
 }
+void ThongTinSinhVien(){
+	cout<<"DH52005378 | Hồ Khánh Dương | D20_TH09"
+}
